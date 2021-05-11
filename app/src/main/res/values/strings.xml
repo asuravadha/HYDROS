@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HYDROS</string>
+    <string name="new_user_click_to_signup">New User? click to Signup</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
 </resources>
